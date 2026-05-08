@@ -1,0 +1,43 @@
+[ 15/12/2025 ]
+Version 1.0.0
+- Release
+[ ------ ]
+
+[ 15/12/2025 #2]
+Version 1.1.0
+- Added b41 support
+[ ------ ]
+
+[ 15/12/2025 #3]
+Version 1.1.1
+- Fixed final condition calculation
+[ ------ ]
+
+[ 16/12/2025 ]
+Version 1.2.0
+- Added sandbox option for including "trash" items (any items already modified by the game).
+- Added support for chuckleberry's Mod Update and Alert System
+[ ------ ]
+
+[ 17/12/2025 ]
+Version 1.3.0
+- Replaced canBeBloody and canBeDirty with chanceBloody and chanceDirty
+- Blood and dirt are now applied to parts and the item rather than just the item
+- Modified condition calculations; blood, dirt, and holes now appear less frequently
+- Added Brazilian Portuguese translation (Thank you Minérios)
+[ ------ ]
+
+[ 21/12/2025 ]
+Version 1.3.1
+- Added more translations to PTBR (Thank you again Minérios)
+- Updated default value for blood chance on normal loot
+[ ------ ]
+
+[ Version 1.4.0 ]
+- Updated translation files to b42.15
+[ ------ ]
+
+[ Version 1.4.1 ]
+- Fixed errors with b42.15
+- Removed legacy files
+[ ------ ]

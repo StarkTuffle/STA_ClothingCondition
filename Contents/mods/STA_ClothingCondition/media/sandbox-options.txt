@@ -1,0 +1,85 @@
+VERSION = 1,
+
+option STA_ClothingCondition.NormalChanceBloody
+{
+    type = double, min = 0.00, max = 1.00, default = 0.10,
+    page = STA_ClothingCondition, translation = STA_ClothingCondition_NormalChanceBloody,
+}
+
+option STA_ClothingCondition.NormalChanceDirty
+{
+    type = double, min = 0.00, max = 1.00, default = 0.70,
+    page = STA_ClothingCondition, translation = STA_ClothingCondition_NormalChanceDirty,
+}
+
+option STA_ClothingCondition.NormalMinCond
+{
+    type = double, min = 0.00, max = 1.00, default = 0.30,
+    page = STA_ClothingCondition, translation = STA_ClothingCondition_NormalMinCond,
+}
+
+option STA_ClothingCondition.NormalMaxCond
+{
+    type = double, min = 0.00, max = 1.00, default = 0.80,
+    page = STA_ClothingCondition, translation = STA_ClothingCondition_NormalMaxCond,
+}
+
+option STA_ClothingCondition.StoreChanceBloody
+{
+    type = double, min = 0.00, max = 1.00, default = 0.00,
+    page = STA_ClothingCondition, translation = STA_ClothingCondition_StoreChanceBloody,
+}
+
+option STA_ClothingCondition.StoreChanceDirty
+{
+    type = double, min = 0.00, max = 1.00, default = 0.05,
+    page = STA_ClothingCondition, translation = STA_ClothingCondition_StoreChanceDirty,
+}
+
+option STA_ClothingCondition.StoreMinCond
+{
+    type = double, min = 0.00, max = 1.00, default = 0.80,
+    page = STA_ClothingCondition, translation = STA_ClothingCondition_StoreMinCond,
+}
+
+option STA_ClothingCondition.StoreMaxCond
+{
+    type = double, min = 0.00, max = 1.00, default = 0.99,
+    page = STA_ClothingCondition, translation = STA_ClothingCondition_StoreMaxCond,
+}
+
+option STA_ClothingCondition.TrashModifyItems
+{
+    type = boolean, default = false,
+    page = STA_ClothingCondition, translation = STA_ClothingCondition_TrashModifyItems,
+}
+
+option STA_ClothingCondition.TrashChanceBloody
+{
+    type = double, min = 0.00, max = 1.00, default = 0.50,
+    page = STA_ClothingCondition, translation = STA_ClothingCondition_TrashChanceBloody,
+}
+
+option STA_ClothingCondition.TrashChanceDirty
+{
+    type = double, min = 0.00, max = 1.00, default = 0.95,
+    page = STA_ClothingCondition, translation = STA_ClothingCondition_TrashChanceDirty,
+}
+
+option STA_ClothingCondition.TrashMinCond
+{
+    type = double, min = 0.00, max = 1.00, default = 0.10,
+    page = STA_ClothingCondition, translation = STA_ClothingCondition_TrashMinCond,
+}
+
+option STA_ClothingCondition.TrashMaxCond
+{
+    type = double, min = 0.00, max = 1.00, default = 0.50,
+    page = STA_ClothingCondition, translation = STA_ClothingCondition_TrashMaxCond,
+}
+
+option STA_ClothingCondition.PerfectCondChance
+{
+    type = double, min = 0.00, max = 1.00, default = 0.10,
+    page = STA_ClothingCondition, translation = STA_ClothingCondition_PerfectCondChance,
+}

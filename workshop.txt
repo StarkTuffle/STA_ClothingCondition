@@ -1,0 +1,21 @@
+version=1
+id=3624669324
+title=ST Additions - Clothing Condition
+description=[h1]Does everyone in Knox buy new clothes weekly?[/h1]
+description=Not anymore! Every piece of clothing now spawns with a random level of wear and tear.
+description=[hr][/hr][h2] Features [/h2]
+description=[list][*]Clothing stores can be configured to have better quality.
+description=[*]Works with modded clothing and the Item Stories mod.
+description=[*]Customizable with sandbox settings.[/list]
+description=[hr][/hr][h2]Feedback and Suggestions[/h2]
+description=If you have any ideas you think would improve the mod? Let me know in the pinned discussion!
+description=[hr][/hr][h2]Bug Reporting[/h2]
+description=If you run into any issues while playing let me know in the pinned discussion.
+description=[hr][/hr][h2] Translations [/h2]
+description=I'm currently expanding translations so players around the world can enjoy it in their own language! If you?d like to help with translating or proofreading, check out the pinned discussion to get involved.
+description=[h3] Currently Available [/h3]
+description=[list][*]English
+description=[*]Brazilian Portuguese (Thanks to [url=https://steamcommunity.com/profiles/76561198387250714]Minérios[/url])[/list]
+description=[hr][/hr][img]https://i.imgur.com/XRG7Sqm.gif[/img]
+tags=Build 41;Build 42;Clothing/Armor
+visibility=public

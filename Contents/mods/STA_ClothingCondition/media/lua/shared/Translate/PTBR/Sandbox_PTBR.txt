@@ -1,0 +1,45 @@
+Sandbox_PTBR = {
+    Sandbox_STA_ClothingCondition = "ST Additions - Condição das Roupas",
+
+    Sandbox_STA_ClothingCondition_NormalChanceBloody = "Saque Comum: Chance de Estar Ensanguentado (%)",
+    Sandbox_STA_ClothingCondition_NormalChanceBloody_tooltip = "A chance de roupas encontradas fora de lojas de roupas e cadáveres serem geradas com sangue. Defina como 0 para desativar o recurso.",
+
+    Sandbox_STA_ClothingCondition_NormalChanceDirty = "Saque Comum: Chance de Estar Sujo (%)",
+    Sandbox_STA_ClothingCondition_NormalChanceDirty_tooltip = "A chance de roupas encontradas fora de lojas de roupas e cadáveres serem geradas com sujeira.",
+
+    Sandbox_STA_ClothingCondition_NormalMinCond = "Saque Comum: Condição Mínima (%)",
+    Sandbox_STA_ClothingCondition_NormalMinCond_tooltip = "A condição mínima das roupas encontradas fora de lojas de roupas e cadáveres.",
+
+    Sandbox_STA_ClothingCondition_NormalMaxCond = "Saque Comum: Condição Máxima (%)",
+    Sandbox_STA_ClothingCondition_NormalMaxCond_tooltip = "A condição máxima das roupas encontradas fora de lojas de roupas e cadáveres.",
+
+    Sandbox_STA_ClothingCondition_StoreChanceBloody = "Saque de Loja: Chance de Estar Ensanguentado (%)",
+    Sandbox_STA_ClothingCondition_StoreChanceBloody_tooltip = "A chance de roupas encontradas dentro de lojas de roupas serem geradas com sangue. Defina como 0 para desativar o recurso.",
+
+    Sandbox_STA_ClothingCondition_StoreChanceDirty = "Saque de Loja: Chance de Estar Sujo (%)",
+    Sandbox_STA_ClothingCondition_StoreChanceDirty_tooltip = "A chance de roupas encontradas dentro de lojas de roupas serem geradas com sujeira. Defina como 0 para desativar o recurso.",
+
+    Sandbox_STA_ClothingCondition_StoreMinCond = "Saque de Loja: Condição Mínima (%)",
+    Sandbox_STA_ClothingCondition_StoreMinCond_tooltip = "A condição mínima das roupas encontradas dentro de lojas de roupas.",
+
+    Sandbox_STA_ClothingCondition_StoreMaxCond = "Saque de Loja: Condição Máxima (%)",
+    Sandbox_STA_ClothingCondition_StoreMaxCond_tooltip = "A condição máxima das roupas encontradas dentro de lojas de roupas.",
+
+    Sandbox_STA_ClothingCondition_TrashModifyItems = "Saque de Lixo: Habilitar",
+    Sandbox_STA_ClothingCondition_TrashModifyItems_tooltip = "Alterna a redefinição de roupas de 'lixo' já processadas pelo jogo (como as encontradas em latas de lixo).",
+
+    Sandbox_STA_ClothingCondition_TrashChanceBloody = "Saque de Lixo: Chance de Estar Ensanguentado (%)",
+    Sandbox_STA_ClothingCondition_TrashChanceBloody_tooltip = "A chance de roupas que já estão danificadas serem geradas com sangue. Defina como 0 para desativar o recurso (aplica-se apenas se 'Saque de Lixo: Habilitar' estiver ativado).",
+
+    Sandbox_STA_ClothingCondition_TrashChanceDirty = "Saque de Lixo: Chance de Estar Sujo (%)",
+    Sandbox_STA_ClothingCondition_TrashChanceDirty_tooltip = "A chance de roupas que já estão danificadas serem geradas com sujeira. Defina como 0 para desativar o recurso (aplica-se apenas se 'Saque de Lixo: Habilitar' estiver ativado).",
+
+    Sandbox_STA_ClothingCondition_TrashMinCond = "Saque de Lixo: Condição Mínima (%)",
+    Sandbox_STA_ClothingCondition_TrashMinCond_tooltip = "A condição mínima de roupas que já estão danificadas (aplica-se apenas se 'Saque de Lixo: Habilitar' estiver ativado).",
+
+    Sandbox_STA_ClothingCondition_TrashMaxCond = "Saque de Lixo: Condição Máxima (%)",
+    Sandbox_STA_ClothingCondition_TrashMaxCond_tooltip = "A condição máxima de roupas que já estão danificadas (aplica-se apenas se 'Saque de Lixo: Habilitar' estiver ativado).",
+
+    Sandbox_STA_ClothingCondition_PerfectCondChance = "Chance de Condição Perfeita (%)",
+    Sandbox_STA_ClothingCondition_PerfectCondChance_tooltip = "A chance de uma roupa ser gerada em condição máxima.",
+}

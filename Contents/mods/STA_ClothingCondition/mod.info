@@ -1,0 +1,8 @@
+name=StarkTruffle Additions - Clothing Condition
+author=StarkTruffle
+poster=poster.png
+id=STA_ClothingCondition
+description="Clothing now spawns with random durability."
+modversion=1.4.1
+versionMin=41.0
+versionMax=41.78

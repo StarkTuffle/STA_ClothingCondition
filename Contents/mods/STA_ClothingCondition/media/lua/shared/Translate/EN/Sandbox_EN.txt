@@ -1,0 +1,45 @@
+Sandbox_EN = {
+    Sandbox_STA_ClothingCondition = "ST Additions - Clothing Condition",
+
+    Sandbox_STA_ClothingCondition_NormalChanceBloody = "Normal Loot: Chance to be Bloody (%)",
+    Sandbox_STA_ClothingCondition_NormalChanceBloody_tooltip = "The chance for clothes found outside of clothing stores and corpses to be generated with blood. Set to 0 to disable the feature.",
+
+    Sandbox_STA_ClothingCondition_NormalChanceDirty = "Normal Loot: Chance to be Dirty (%)",
+    Sandbox_STA_ClothingCondition_NormalChanceDirty_tooltip = "The chance for clothes found outside of clothing stores and corpses to be generated with dirt.",
+
+    Sandbox_STA_ClothingCondition_NormalMinCond = "Normal Loot: Minimum Condition (%)",
+    Sandbox_STA_ClothingCondition_NormalMinCond_tooltip = "The minimum condition of clothes found outside of clothing stores and corpses.",
+
+    Sandbox_STA_ClothingCondition_NormalMaxCond = "Normal Loot: Maximum Condition (%)",
+    Sandbox_STA_ClothingCondition_NormalMaxCond_tooltip = "The maximum condition of clothes found outside of clothing stores and corpses.",
+
+    Sandbox_STA_ClothingCondition_StoreChanceBloody = "Clothing Store Loot: Chance to be Bloody (%)",
+    Sandbox_STA_ClothingCondition_StoreChanceBloody_tooltip = "The chance for clothes found inside of clothing stores to be generated with blood. Set to 0 to disable the feature.",
+
+    Sandbox_STA_ClothingCondition_StoreChanceDirty = "Clothing Store Loot: Chance to be Dirty (%)",
+    Sandbox_STA_ClothingCondition_StoreChanceDirty_tooltip = "The chance for clothes found inside of clothing stores to be generated with dirt. Set to 0 to disable the feature.",
+
+    Sandbox_STA_ClothingCondition_StoreMinCond = "Clothing Store Loot: Minimum Condition (%)",
+    Sandbox_STA_ClothingCondition_StoreMinCond_tooltip = "The minimum condition of clothes found inside of clothing stores.",
+
+    Sandbox_STA_ClothingCondition_StoreMaxCond = "Clothing Store Loot: Maximum Condition (%)",
+    Sandbox_STA_ClothingCondition_StoreMaxCond_tooltip = "The maximum condition of clothes found inside of clothing stores.",
+
+    Sandbox_STA_ClothingCondition_TrashModifyItems = "Trash Loot: Enable",
+    Sandbox_STA_ClothingCondition_TrashModifyItems_tooltip = "Toggle re-rolling 'trash' clothes already handled by the game (like those found in trash cans).",
+
+    Sandbox_STA_ClothingCondition_TrashChanceBloody = "Trash Loot: Chance to be Bloody (%)",
+    Sandbox_STA_ClothingCondition_TrashChanceBloody_tooltip = "The chance for clothes that are already damaged to be generated with blood. Set to 0 to disable the feature (only applies if 'Trash Loot: Enable' is enabled.)",
+
+    Sandbox_STA_ClothingCondition_TrashChanceDirty = "Trash Loot: Chance to be Dirty (%)",
+    Sandbox_STA_ClothingCondition_TrashChanceDirty_tooltip = "The chance for clothes that are already damaged to be generated with dirt. Set to 0 to disable the feature (only applies if 'Trash Loot: Enable' is enabled.)",
+
+    Sandbox_STA_ClothingCondition_TrashMinCond = "Trash Loot: Minimum Condition (%)",
+    Sandbox_STA_ClothingCondition_TrashMinCond_tooltip = "The minimum condition of clothes that are already damaged (only applies if 'Trash Loot: Enable' is enabled.)",
+
+    Sandbox_STA_ClothingCondition_TrashMaxCond = "Trash Loot: Maximum Condition (%)",
+    Sandbox_STA_ClothingCondition_TrashMaxCond_tooltip = "The maximum condition of clothes that are already damaged (only applies if 'Trash Loot: Enable' is enabled.)",
+
+    Sandbox_STA_ClothingCondition_PerfectCondChance = "Perfect Condition Chance (%)",
+    Sandbox_STA_ClothingCondition_PerfectCondChance_tooltip = "The chance for clothing to be max condition.",
+}

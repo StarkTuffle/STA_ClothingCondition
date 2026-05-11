@@ -22,9 +22,9 @@ This will randomly deplete the condition of clothing found throughout the Knox C
 
 | Version | Singleplayer | Multiplayer |
 | ------- | ------------ | ----------- |
-| b41.78.18 | ✅ | ✅ |
+| b41.78.19 | ✅ | ✅ |
+| b42.18.0 | ✅ | ✅ |
 | b42.17.0 | ✅ | ✅ |
-| b42.16.3 | ✅ | ✅ |
 
 ---
 
